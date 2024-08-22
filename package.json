@@ -75,7 +75,7 @@
         "@jupyterlab/docmanager": "^4.0.0",
         "@jupyterlab/docregistry": "^4.0.0",
         "@jupyterlab/filebrowser": "^4.0.0",
-        "@jupyterlab/services": "^7.0.0",
+        "@jupyterlab/services": "^7.2.4",
         "@jupyterlab/settingregistry": "^4.0.0",
         "@jupyterlab/ui-components": "^4.0.0",
         "@lumino/algorithm": "^2.0.0",
